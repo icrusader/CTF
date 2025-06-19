@@ -1,0 +1,3 @@
+after decompiling I found there is a secret menu using number 9
+after enter the secret menu: i need to find which key to use which turn out to be a negative hex number -0x642d38a5b63b1015
+after enter the key i successfully grab the flag
