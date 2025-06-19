@@ -1,7 +1,7 @@
 # My CTF Write-ups
 
-![GitHub last commit](https://img.shields.io/github/last-commit/icrusader/CTF-Writes-up)
-![GitHub stars](https://img.shields.io/github/stars/icrusader/CTF-Writes-up?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/icrusader/CTF)
+![GitHub stars](https://img.shields.io/github/stars/icrusader/CTFp?style=social)
 
 Welcome to my repository of Capture The Flag (CTF) write-ups. This collection serves as a personal archive of the challenges I've solved and a resource for others in the cybersecurity community.
 
